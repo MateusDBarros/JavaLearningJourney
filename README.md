@@ -27,7 +27,7 @@ Feedbacks, sugestões e contribuições são sempre bem-vindos! Se você tiver a
 
 ## 📬 Contato
 
-- **LinkedIn**: [Linkedinl](https://www.linkedin.com/in/mateus-barros13)
+- **LinkedIn**: [Mateus Barros](https://www.linkedin.com/in/mateus-barros13)
 - **Email**: mb685212@gmail.com
 
 Obrigado por acompanhar minha jornada! 🌟
