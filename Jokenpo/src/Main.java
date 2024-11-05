@@ -9,9 +9,6 @@ public class Main {
         String choice;
         String computer;
 
-
-
-
         do {
             // Salva as informações do computador
             int rand = random.nextInt(3);
@@ -22,7 +19,6 @@ public class Main {
             System.out.println("Escolha entre ('Pedra', 'Papel' ou 'Tesoura'):");
             choice = scanner.next();
             choice = choice.toLowerCase();
-
 
             if (choice.equals(computer)) {
                 System.out.println("Empate!");
